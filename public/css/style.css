@@ -569,7 +569,7 @@ label {
   display: inline-block;
   margin: 0 20px;
 }
-#contact .social i.fa {
+#contact .social i.fa-brands {
   font-size: 22px;
   width: 48px;
   height: 48px;
@@ -579,7 +579,7 @@ label {
   border-radius: 50%;
   transition: all 0.3s;
 }
-#contact .social i.fa:hover {
+#contact .social i.fa-brands:hover {
   color: #608dfd;
   background: #fff;
 }

@@ -20,47 +20,47 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Vải Latin",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Kate",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Thun 3D dày",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Gấm",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Cotton Lạnh",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Vải Tol loại I",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Thun Ati",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Lưới Ép",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Áo Dài",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
@@ -68,50 +68,51 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Chuyên sỉ lẻ tất cả các loại mặt hàng vải sợi",
+      "text": "Có rất nhiều mẫu mã và các mặt hàng luôn sẵn có với số lượng lớn"
     },
     {
+    
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Đồng Phục Các Loại",
+      "text": "Nhận tư vấn và hỗ trợ khách hàng đặt hàng các mẫu mã cho đồng phục học sinh và cơ quan"
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa  fa-female",
+      "name": "Áo Dài",
+      "text": "Rất nhiều sự lựa chọn dành cho áo dài, từ áo dài truyền thống, học sinh đến các loại áo dài cách tân, thời trang"
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Áo đẹp và chất lượng lắm bà con ơi! Mình sẽ ủng hộ cửa hàng này dài dài.\"",
+      "name": "Phương Thanh"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Vải ở đây theo mình thấy thì vô cùng là chất lượng và ổn áp với giá tiền như vậy.\"",
+      "name": "Kiều Oanh"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Vải mát ghê luôn á trời, mặc áo này mà vào mùa hè thì khỏi nói, cứ như là đang ở mùa đông luôn.\"",
+      "name": "Cẩm Thu"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Mình đã mua ở rất nhiều nơi rồi, nhưng cửa hàng này rất đa dạng mẫu mã và bán toàn đồ chất lượng.\"",
+      "name": "Phương Uyên"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Vải chất lượng, cô chủ nhiệt tình tư vấn cho mình.\"",
+      "name": "Cẩm Tiên"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Ngay trung tâm chợ, rất dễ kiếm và đa dạng mẫu mã. Người bán cũng rất vui vẻ.\"",
+      "name": "Hồng Ngọc"
     }
   ],
   "Team": [
@@ -137,12 +138,13 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Lầu 1 Khu C, Phường 1, Thành Phố Vĩnh Long ",
+    "phone": "+84 896477869",
+    "email": "trihuevl30@gmail.com",
+    "open_time":"7AM - 6PM",
+    "facebook": "https://www.facebook.com/Qu%E1%BA%A7y-V%E1%BA%A3i-Hu%C3%AA-Tr%C3%AD-2200142896883201",
+    "viber": "https://www.viber.com/en/",
+    "zalo": "https://chat.zalo.me/"
   },
   "Features": [
     {

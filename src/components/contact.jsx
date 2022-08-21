@@ -20,16 +20,17 @@ export const Contact = (props) => {
     console.log(name, email, message)
     emailjs
       .sendForm(
-        'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID'
+        'service_jg3b2ib', 'template_056rr6v', e.target, 'EemXM7Teyyt3gMdko'
       )
       .then(
+
         (result) => {
           console.log(result.text)
           clearState()
         },
         (error) => {
           console.log(error.text)
-        }
+        },
       )
   }
   return (
@@ -125,7 +126,7 @@ export const Contact = (props) => {
                 <span>
                   <i className='fa fa-clock-o'></i> Giờ Mở Cửa
                 </span>{' '}
-                {props.data ? props.data.email : 'loading'}
+                {props.data ? props.data.open_time : 'loading'}
               </p>
             </div>
           </div>
@@ -135,17 +136,17 @@ export const Contact = (props) => {
                 <ul>
                   <li>
                     <a href={props.data ? props.data.facebook : '/'}>
-                      <i className='fa fa-facebook'></i>
+                    <i className="fa-brands fa-facebook"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : '/'}>
-                      <i className='fa fa-twitter'></i>
+                    <a href={props.data ? props.data.viber : '/'}>
+                      <i className='fa-brands fa-viber'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : '/'}>
-                      <i className='fa fa-youtube'></i>
+                    <a href={props.data ? props.data.zalo : '/'}>
+                    <i className="fa-brands fa-whatsapp"></i>
                     </a>
                   </li>
                 </ul>
