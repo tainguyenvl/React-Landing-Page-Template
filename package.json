@@ -1,11 +1,13 @@
 {
   "name": "landingpage-react-template",
   "private": true,
+  "homepage": "https://tainguyenvl.github.io/React-Landing-Page-Template", 
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "emailjs-com": "^2.6.4",
+    "gh-pages": "^4.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "^4.0.2",
@@ -14,7 +16,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "yarn run build",
     "test": "react-scripts test",
+    "deploy": "gh-pages -b master -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
