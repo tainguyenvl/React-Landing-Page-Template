@@ -152,11 +152,11 @@ export const Contact = (props) => {
                       <i className='fa-brands fa-viber'></i>
                     </a>
                   </li>
-                  {/* <li>
+                  <li>
                     <a href={props.data ? props.data.zalo : '/'}>
-                    <i className="fa-brands fa-whatsapp"></i>
+                    <i className="fa-brands icon-zalo"></i>
                     </a>
-                  </li> */}
+                  </li>
                 </ul>
               </div>
             </div>
