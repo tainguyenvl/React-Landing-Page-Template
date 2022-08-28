@@ -110,7 +110,7 @@ export const Contact = (props) => {
                 <span>
                   <i className='fa fa-mobile'></i> Điện Thoại Di Động
                 </span>{' '}
-                <a href="tel:{props.data ? props.data.mobilephone : 'loading'}">{props.data ? props.data.mobilephone : 'loading'}</a>
+                <a href={"tel:"+ (props.data ? props.data.mobilephone : 'loading')}>{props.data ? props.data.mobilephone : 'loading'}</a>
               </p>
             </div>
             <div className='contact-item'>
@@ -118,7 +118,7 @@ export const Contact = (props) => {
                 <span>
                   <i className='fa fa-phone'></i> Điện Thoại Bàn
                 </span>{' '}
-                <a href="tel:{props.data ? props.data.phone : 'loading'}">{props.data ? props.data.phone : 'loading'}</a>
+                <a href={"tel:" + (props.data ? props.data.phone : 'loading')}>{props.data ? props.data.phone : 'loading'}</a>
               </p>
             </div>
             <div className='contact-item'>
