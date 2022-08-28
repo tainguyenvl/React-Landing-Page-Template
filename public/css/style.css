@@ -1,6 +1,6 @@
 body,
 html {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Times New Roman", sans-serif;
   text-rendering: optimizeLegibility !important;
   -webkit-font-smoothing: antialiased !important;
   color: #777;
@@ -11,7 +11,7 @@ html {
 h2,
 h3,
 h4 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Times New Roman", sans-serif;
 }
 h2 {
   text-transform: uppercase;
@@ -81,7 +81,7 @@ hr {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
 #menu a.navbar-brand {
-  font-family: "Raleway", sans-serif;
+  font-family: "Times New Roman", sans-serif;
   font-size: 24px;
   font-weight: 700;
   color: #333;
@@ -163,7 +163,7 @@ hr {
   font-size: 18px;
 }
 .btn-custom {
-  font-family: "Raleway", sans-serif;
+  font-family: "Times New Roman", sans-serif;
   text-transform: uppercase;
   color: #fff;
   background-color: #5ca9fb;
@@ -216,10 +216,10 @@ a:focus,
   -o-background-size: cover;
 }
 .intro .overlay {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(33, 33, 33, 0.2);
 }
 .intro h1 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Times New Roman", sans-serif;
   color: #fff;
   font-size: 82px;
   font-weight: 700;
@@ -370,8 +370,8 @@ header .intro-text {
   color: #fff;
   background: linear-gradient(
     to right,
-    rgba(99, 114, 255, 0.8) 0%,
-    rgba(92, 169, 251, 0.8) 100%
+    rgba(99, 115, 255, 0.642) 0%,
+    rgba(215, 222, 230, 0.8) 100%
   );
   padding: 30% 0 0;
   height: 100%;
@@ -461,7 +461,7 @@ header .intro-text {
 #contact {
   padding: 100px 0 60px;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 1);
 }
 #contact .section-title {
   margin-bottom: 40px;
@@ -510,7 +510,7 @@ header .intro-text {
 label {
   font-size: 12px;
   font-weight: 400;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Times New Roman", sans-serif;
   float: left;
 }
 #contact .form-control {
@@ -536,6 +536,7 @@ label {
   -webkit-box-shadow: transparent;
   box-shadow: transparent;
 }
+
 .form-control::-webkit-input-placeholder {
   color: #777;
 }
@@ -582,6 +583,11 @@ label {
 #contact .social i.fa-brands:hover {
   color: #608dfd;
   background: #fff;
+}
+
+#contact a {
+  color: rgba(255, 255, 255, 1);
+  text-decoration: none; /* no underline */
 }
 /* Footer Section*/
 #footer {

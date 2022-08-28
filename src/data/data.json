@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "Quầy Vải Huê Trí ",
-    "paragraph": "Chuyên cung cấp các mặt hàng vải sợi, trang phục công sở, áo dài các loại và đồng phục học sinh, cơ quan."
+    "paragraph": "Chuyên Cung Cấp Các Mặt Hàng Vải Sợi, Trang Phục Công Sở, Áo Dài Các Loại Và Đồng Phục Học Sinh, Cơ Quan"
   },
   "About": {
     "paragraph": "Tọa lạc tại lầu 1 chợ Mới, trung tâm thành phố Vĩnh Long, Quầy Vải Huê Trí đã từ lâu được biết đến như một thương hiệu uy tín về chất lượng sản phẩm và dịch vụ.",
@@ -138,12 +138,13 @@
     }
   ],
   "Contact": {
-    "address": "Lầu 1 Khu C, Phường 1, Thành Phố Vĩnh Long ",
-    "phone": "0916444045",
-    "email": "trihuevl30@gmail.com",
-    "open_time":"7AM - 6PM Các Ngày",
+    "address": "Lầu 1 Khu C, Phường 1, Thành Phố Vĩnh Long",
+    "mobilephone": "0916444045",
+    "phone": "02703823581",
+    "bank": "070018896166 , Hồ Thị Huê",
+    "open_time":"7h - 17h Hằng Ngày",
     "facebook": "https://www.facebook.com/Qu%E1%BA%A7y-V%E1%BA%A3i-Hu%C3%AA-Tr%C3%AD-2200142896883201",
-    "viber": "https://www.viber.com/en/",
+    "viber": "viber://contact?number=%2B84932922957",
     "zalo": "https://chat.zalo.me/"
   },
   "Features": [

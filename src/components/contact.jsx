@@ -108,17 +108,25 @@ export const Contact = (props) => {
             <div className='contact-item'>
               <p>
                 <span>
-                  <i className='fa fa-phone'></i> Điện Thoại
+                  <i className='fa fa-mobile'></i> Điện Thoại Di Động
                 </span>{' '}
-                {props.data ? props.data.phone : 'loading'}
+                <a href="tel:{props.data ? props.data.mobilephone : 'loading'}">{props.data ? props.data.mobilephone : 'loading'}</a>
               </p>
             </div>
             <div className='contact-item'>
               <p>
                 <span>
-                  <i className='fa fa-envelope-o'></i> Email
+                  <i className='fa fa-phone'></i> Điện Thoại Bàn
                 </span>{' '}
-                {props.data ? props.data.email : 'loading'}
+                <a href="tel:{props.data ? props.data.phone : 'loading'}">{props.data ? props.data.phone : 'loading'}</a>
+              </p>
+            </div>
+            <div className='contact-item'>
+              <p>
+                <span>
+                  <i className='fa fa-university'></i> SACOMBANK
+                </span>{' '}
+                {props.data ? props.data.bank : 'loading'}
               </p>
             </div>
             <div className='contact-item'>
@@ -144,11 +152,11 @@ export const Contact = (props) => {
                       <i className='fa-brands fa-viber'></i>
                     </a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a href={props.data ? props.data.zalo : '/'}>
                     <i className="fa-brands fa-whatsapp"></i>
                     </a>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
@@ -159,7 +167,7 @@ export const Contact = (props) => {
         <div className='container text-center'>
           <p>
             &copy; 2022 Quầy Vải Huê Trí. Design by{' '}
-            <a href= '' rel='nofollow'>
+            <a href= 'https://www.linkedin.com/in/tai-nguyen-vl/' rel='nofollow'>
               Tai Nguyen
             </a>
           </p>
